@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  background-color: #3914AF;
+  color: white;
+}
+
+.logo {
+  display: flex;
+}
+
+.nav-main > ul {
+  list-style: none;
+  display: flex;
+}
+.nav-main a {
+  color: white;
+}
